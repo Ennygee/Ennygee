@@ -44,20 +44,14 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 
 ## Education
 
-<div>
-    <p>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Redeemer%27s_University_logo.png/1200px-Redeemer%27s_University_logo.png" alt="Redeemer's University Logo" width="50" height="50" />
-        <strong>Bachelor of Science in Computer Science</strong><br/>
-        Redeemer's University, Nigeria<br/>
-        Graduated: August 2022
-    </p>
-    <p>
-        <img src="https://www.dallascollege.edu/_layouts/DC.InternetBranding/2.4/images/dallas-college-logo.svg" alt="Dallas College Logo" width="50" height="50" />
-        <strong>Associate of Applied Science in Cybersecurity</strong><br/>
-        Dallas College, Texas, USA<br/>
-        Expected Graduation: December 2025
-    </p>
-</div>
+**Bachelor of Science in Computer Science**  
+Redeemer's University, Nigeria  
+Graduated: August 2022
+
+**Associate of Applied Science in Cybersecurity**  
+Dallas College, Texas, USA  
+Expected Graduation: December 2025
+
 
 
 

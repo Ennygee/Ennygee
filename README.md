@@ -21,25 +21,26 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Network Security
+![Wireshark](https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-6C4FBB?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-FB4F14?style=for-the-badge&logo=suricata&logoColor=white)
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### Endpoint Detection and Response (EDR)
+![Sysmon](https://img.shields.io/badge/Sysmon-6C757D?style=for-the-badge)
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D7?style=for-the-badge)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-5E478E?style=for-the-badge)
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### SIEM (Security Information and Event Management)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D7?style=for-the-badge)
+
+### Attack Simulation and Threat Hunting
+![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-6C4FBB?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Crowbar](https://img.shields.io/badge/Crowbar-5E478E?style=for-the-badge)
+
 
 ## Education
 
@@ -87,3 +88,5 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- [Blue Team Operations Lab: Active Directory Threat Detection with Splunk, Sysmon, and Atomic Red Team](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team/blob/main/README.md)
+

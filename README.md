@@ -8,6 +8,12 @@ Greetings, Cyber Defenders! I’m a driven cybersecurity specialist and a relent
 My journey in computer science has ignited a deep passion for cybersecurity, driving me to transition into this field with a focus on becoming a Tier 1 Analyst in a Security Operations Center (SOC). I aim to leverage my solid experience in network security and ongoing cybersecurity education to excel in threat detection, response, and analysis. Eager to contribute to a proactive security team, I’m committed to growing my skills and enhancing my expertise in a dynamic SOC environment.
 
 
+## Projects
+- [Blue Team Operations Lab: Active Directory Threat Detection with Splunk, Sysmon, and Atomic Red Team](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team/blob/main/README.md)
+- Detection Lab
+- SOC Automation Project
+
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -78,9 +84,4 @@ Expected Graduation: December 2025
     </a>
 </div>
 
-
-## Projects
-- Detection Lab
-- SOC Automation Project
-- [Blue Team Operations Lab: Active Directory Threat Detection with Splunk, Sysmon, and Atomic Red Team](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team/blob/main/README.md)
 

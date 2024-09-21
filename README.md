@@ -38,16 +38,24 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 
 ### Endpoint Detection and Response (EDR)
 ![Sysmon](https://img.shields.io/badge/Sysmon-6C757D?style=for-the-badge)
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D7?style=for-the-badge)
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-5E478E?style=for-the-badge)
 
-### SIEM and Log Management
+### SIEM (Security Information and Event Management)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D7?style=for-the-badge)
 
 ### Attack Simulation and Threat Hunting
 ![GoPhish](https://img.shields.io/badge/GoPhish-5E478E?style=for-the-badge)
 ![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-6C4FBB?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Crowbar](https://img.shields.io/badge/Crowbar-5E478E?style=for-the-badge)
+
+### Automation and Scripting
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+
 
 
 ## Education

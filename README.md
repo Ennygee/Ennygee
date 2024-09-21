@@ -9,8 +9,8 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 
 
 ## Projects
+- [Active Directory Lab Setup on VirtualBox: Configuring Domain Controller and Client Machine]([https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team/blob/main/README.md](https://github.com/Ennygee/Virtual-AD-Lab-Domain-Controller-and-Client-Setup-with-1-000-Users))
 - [Blue Team Operations Lab: Active Directory Threat Detection with Splunk, Sysmon, and Atomic Red Team](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team/blob/main/README.md)
-- Detection Lab
 - SOC Automation Project
 
 

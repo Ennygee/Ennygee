@@ -9,25 +9,42 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 
 
 ## Projects
-- [Active Directory Lab Setup on VirtualBox: Configuring Domain Controller and Client Machine](https://github.com/Ennygee/Virtual-AD-Lab-Domain-Controller-and-Client-Setup-with-1-000-Users)
-- [Blue Team Operations Lab: Active Directory Threat Detection with Splunk, Sysmon, and Atomic Red Team](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team/blob/main/README.md)
-- [GoPhish Phishing Simulation Lab: Facebook Credential Capture](https://github.com/Ennygee/GoPhish-Phishing-Simulation-Lab-Facebook-Credential-Capture)
-- SOC Automation Project
 
+- [**SOC Automation Lab: Detection and Response with LimaCharlie, Tines, TheHive, Wazuh, and Sysmon**](https://github.com/Ennygee/SOC-Automation-Lab-Detection-and-Response-with-LimaCharlie-Tines-TheHive-Wazuh-and-Sysmon)  
+  Integrated LimaCharlie (EDR), Tines (SOAR), TheHive (case management), Wazuh (SIEM), and Sysmon (monitoring) to automate SOC operations for detecting and responding to threats in real-time.
+
+- [**Cloud-Based SOC Automation Lab with Wazuh, TheHive, and Shuffle**](https://github.com/Ennygee/Cloud-Based-SOC-Automation-Lab-with-Wazuh-TheHive-and-Shuffle)  
+  Developed a cloud-based SOC automation lab utilizing Wazuh for security monitoring, TheHive for case management, and Shuffle for incident response automation.
+
+- [**Dynamic Threat Detection Lab: Reverse Shells, Telemetry, and SIEM Analysis**](https://github.com/Ennygee/Dynamic-Threat-Detection-Lab-Reverse-Shells-Telemetry-and-SIEM-Analysis)  
+  Created a lab focused on detecting reverse shells through telemetry analysis using SIEM tools, enhancing threat detection and mitigation capabilities.
+
+- [**GoPhish Phishing Simulation Lab: Facebook Credential Capture**](https://github.com/Ennygee/GoPhish-Phishing-Simulation-Lab-Facebook-Credential-Capture)  
+  Executed a phishing simulation using GoPhish, focusing on Facebook credential capture. Analyzed the results to improve phishing detection and employee security awareness.
+
+- [**Virtual AD Lab: Domain Controller and Client Setup with 1,000 Users**](https://github.com/Ennygee/Virtual-AD-Lab-Domain-Controller-and-Client-Setup-with-1-000-Users)  
+  Configured a fully functional Active Directory (AD) lab with 1,000 users in a virtual environment. Automated user creation and management with PowerShell scripts.
+
+- [**Blue Team Operations Lab: Active Directory Threat Detection with Splunk, Sysmon, and Atomic Red Team**](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team)  
+  Developed an Active Directory security lab that integrates Splunk for log analysis, Sysmon for monitoring, and Atomic Red Team for attack simulations to practice blue team threat detection techniques.
+
+---
 
 ## Skills
 
 | Skill                                               | Associated Project                                               |
 |-----------------------------------------------------|------------------------------------------------------------------|
-| Active Directory Management                         | [Active Directory Lab Setup on VirtualBox](https://github.com/Ennygee/Virtual-AD-Lab-Domain-Controller-and-Client-Setup-with-1-000-Users) |
-| Phishing Campaign Execution & Analysis              | [GoPhish Phishing Simulation Lab: Facebook Credential Capture](https://github.com/Ennygee/GoPhish-Phishing-Simulation-Lab-Facebook-Credential-Capture) |
-| SIEM Implementation (Splunk) and Log Analysis       | [Blue Team Operations Lab: Active Directory Threat Detection with Splunk, Sysmon, and Atomic Red Team](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team/blob/main/README.md) |
-| Network Traffic Monitoring and Threat Detection     | [Blue Team Operations Lab: Active Directory Threat Detection with Splunk, Sysmon, and Atomic Red Team](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team/blob/main/README.md) |
-| Automation with PowerShell                          | [Active Directory Lab Setup on VirtualBox](https://github.com/Ennygee/Virtual-AD-Lab-Domain-Controller-and-Client-Setup-with-1-000-Users) |
-| Attack Simulation and Threat Hunting                | [Blue Team Operations Lab](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team/blob/main/README.md), [GoPhish Phishing Simulation Lab](https://github.com/Ennygee/GoPhish-Phishing-Simulation-Lab-Facebook-Credential-Capture) |
-| User and Group Management in AD                     | [Active Directory Lab Setup on VirtualBox](https://github.com/Ennygee/Virtual-AD-Lab-Domain-Controller-and-Client-Setup-with-1-000-Users) |
-| Incident Response Planning and Execution            | [Blue Team Operations Lab](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team/blob/main/README.md) |
+| Active Directory Management                         | [Virtual AD Lab](https://github.com/Ennygee/Virtual-AD-Lab-Domain-Controller-and-Client-Setup-with-1-000-Users) |
+| Phishing Campaign Execution & Analysis              | [GoPhish Phishing Simulation Lab](https://github.com/Ennygee/GoPhish-Phishing-Simulation-Lab-Facebook-Credential-Capture) |
+| SIEM Implementation (Splunk, Wazuh) and Log Analysis| [Blue Team Operations Lab](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team), [SOC Automation Lab](https://github.com/Ennygee/SOC-Automation-Lab-Detection-and-Response-with-LimaCharlie-Tines-TheHive-Wazuh-and-Sysmon) |
+| Network Traffic Monitoring and Threat Detection     | [Blue Team Operations Lab](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team), [SOC Automation Lab](https://github.com/Ennygee/SOC-Automation-Lab-Detection-and-Response-with-LimaCharlie-Tines-TheHive-Wazuh-and-Sysmon) |
+| Endpoint Detection and Response (EDR)               | [SOC Automation Lab](https://github.com/Ennygee/SOC-Automation-Lab-Detection-and-Response-with-LimaCharlie-Tines-TheHive-Wazuh-and-Sysmon) |
+| Automation with PowerShell                          | [Active Directory Lab](https://github.com/Ennygee/Virtual-AD-Lab-Domain-Controller-and-Client-Setup-with-1-000-Users) |
+| Threat Hunting and Attack Simulation                | [Blue Team Operations Lab](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team), [GoPhish Phishing Simulation Lab](https://github.com/Ennygee/GoPhish-Phishing-Simulation-Lab-Facebook-Credential-Capture), [SOC Automation Lab](https://github.com/Ennygee/SOC-Automation-Lab-Detection-and-Response-with-LimaCharlie-Tines-TheHive-Wazuh-and-Sysmon) |
+| Incident Response Planning and Execution            | [SOC Automation Lab](https://github.com/Ennygee/SOC-Automation-Lab-Detection-and-Response-with-LimaCharlie-Tines-TheHive-Wazuh-and-Sysmon), [Blue Team Operations Lab](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team) |
+| Reverse Shell Detection and Analysis                | [Dynamic Threat Detection Lab](https://github.com/Ennygee/Dynamic-Threat-Detection-Lab-Reverse-Shells-Telemetry-and-SIEM-Analysis) |
 
+---
 
 ## Tools
 
@@ -40,11 +57,13 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 ![Sysmon](https://img.shields.io/badge/Sysmon-6C757D?style=for-the-badge)
 ![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D7?style=for-the-badge)
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-5E478E?style=for-the-badge)
+![LimaCharlie](https://img.shields.io/badge/LimaCharlie-6C4FBB?style=for-the-badge)
 
 ### SIEM (Security Information and Event Management)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D7?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-6C4FBB?style=for-the-badge)
 
 ### Attack Simulation and Threat Hunting
 ![GoPhish](https://img.shields.io/badge/GoPhish-5E478E?style=for-the-badge)
@@ -54,6 +73,7 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 
 ### Automation and Scripting
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
 
 
 

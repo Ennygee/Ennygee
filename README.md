@@ -13,10 +13,10 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 ### 🌟 [**TryHackMe Advent of Cyber 2024**](https://tryhackme.com/christmas)  
 A thrilling, hands-on **cybersecurity challenge series** designed to hone real-world skills. Each day introduces a unique scenario to solve.  
 🎄 **Days Completed**:  
-- [**Day 1: Bad OPSEC Challenge**](https://github.com/Ennygee/Day-1-Bad-OPSEC-Challenge)  
+- **[Day 1: Bad OPSEC Challenge](https://github.com/Ennygee/Day-1-Bad-OPSEC-Challenge)**  
    🕵️‍♂️ Investigated a file conversion website to uncover **OPSEC failures** by analyzing metadata, identifying malicious scripts, and tracing attackers through GitHub repositories.  
-   *(More days to be added as challenges are completed.)*
-
+   *(More days to be added as challenges are completed.)*  
+   
 ---
 
 ### 🛡️ [**SOC Automation Lab: Detection and Response with LimaCharlie, Tines, TheHive, Wazuh, and Sysmon**](https://github.com/Ennygee/SOC-Automation-Lab-Detection-and-Response-with-LimaCharlie-Tines-TheHive-Wazuh-and-Sysmon)  

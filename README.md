@@ -8,25 +8,45 @@ Greetings, Cyber Defenders! I’m a driven cybersecurity specialist and a relent
 My journey in computer science has ignited a deep passion for cybersecurity, driving me to transition into this field with a focus on becoming a Tier 1 Analyst in a Security Operations Center (SOC). I aim to leverage my solid experience in network security and ongoing cybersecurity education to excel in threat detection, response, and analysis. Eager to contribute to a proactive security team, I’m committed to growing my skills and enhancing my expertise in a dynamic SOC environment.
 
 
-## Projects
+## 🚀 **Projects**
 
-- [**SOC Automation Lab: Detection and Response with LimaCharlie, Tines, TheHive, Wazuh, and Sysmon**](https://github.com/Ennygee/SOC-Automation-Lab-Detection-and-Response-with-LimaCharlie-Tines-TheHive-Wazuh-and-Sysmon)  
-  Integrated LimaCharlie (EDR), Tines (SOAR), TheHive (case management), Wazuh (SIEM), and Sysmon (monitoring) to automate SOC operations for detecting and responding to threats in real-time.
+### 🌟 [**TryHackMe Advent of Cyber 2024**](https://tryhackme.com/christmas)  
+A thrilling, hands-on **cybersecurity challenge series** designed to hone real-world skills. Each day introduces a unique scenario to solve.  
+🎄 **Days Completed**:  
+- **Day 1: Bad OPSEC Challenge**  
+   🕵️‍♂️ Investigated a file conversion website to uncover **OPSEC failures** by analyzing metadata, identifying malicious scripts, and tracing attackers through GitHub repositories.  
+   *(More days to be added as challenges are completed.)*
 
-- [**Cloud-Based SOC Automation Lab with Wazuh, TheHive, and Shuffle**](https://github.com/Ennygee/Cloud-Based-SOC-Automation-Lab-with-Wazuh-TheHive-and-Shuffle)  
-  Developed a cloud-based SOC automation lab utilizing Wazuh for security monitoring, TheHive for case management, and Shuffle for incident response automation.
+---
 
-- [**Dynamic Threat Detection Lab: Reverse Shells, Telemetry, and SIEM Analysis**](https://github.com/Ennygee/Dynamic-Threat-Detection-Lab-Reverse-Shells-Telemetry-and-SIEM-Analysis)  
-  Created a lab focused on detecting reverse shells through telemetry analysis using SIEM tools, enhancing threat detection and mitigation capabilities.
+### 🛡️ [**SOC Automation Lab: Detection and Response with LimaCharlie, Tines, TheHive, Wazuh, and Sysmon**](https://github.com/Ennygee/SOC-Automation-Lab-Detection-and-Response-with-LimaCharlie-Tines-TheHive-Wazuh-and-Sysmon)  
+Integrated **LimaCharlie (EDR)**, **Tines (SOAR)**, **TheHive (case management)**, **Wazuh (SIEM)**, and **Sysmon (monitoring)** to automate SOC operations for detecting and responding to threats in real-time.
 
-- [**GoPhish Phishing Simulation Lab: Facebook Credential Capture**](https://github.com/Ennygee/GoPhish-Phishing-Simulation-Lab-Facebook-Credential-Capture)  
-  Executed a phishing simulation using GoPhish, focusing on Facebook credential capture. Analyzed the results to improve phishing detection and employee security awareness.
+---
 
-- [**Virtual AD Lab: Domain Controller and Client Setup with 1,000 Users**](https://github.com/Ennygee/Virtual-AD-Lab-Domain-Controller-and-Client-Setup-with-1-000-Users)  
-  Configured a fully functional Active Directory (AD) lab with 1,000 users in a virtual environment. Automated user creation and management with PowerShell scripts.
+### ☁️ [**Cloud-Based SOC Automation Lab with Wazuh, TheHive, and Shuffle**](https://github.com/Ennygee/Cloud-Based-SOC-Automation-Lab-with-Wazuh-TheHive-and-Shuffle)  
+Developed a **cloud-based SOC automation lab** utilizing **Wazuh** for security monitoring, **TheHive** for case management, and **Shuffle** for incident response automation.
 
-- [**Blue Team Operations Lab: Active Directory Threat Detection with Splunk, Sysmon, and Atomic Red Team**](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team)  
-  Developed an Active Directory security lab that integrates Splunk for log analysis, Sysmon for monitoring, and Atomic Red Team for attack simulations to practice blue team threat detection techniques.
+---
+
+### 🔍 [**Dynamic Threat Detection Lab: Reverse Shells, Telemetry, and SIEM Analysis**](https://github.com/Ennygee/Dynamic-Threat-Detection-Lab-Reverse-Shells-Telemetry-and-SIEM-Analysis)  
+Created a lab focused on detecting **reverse shells** through telemetry analysis using **SIEM tools**, enhancing threat detection and mitigation capabilities.
+
+---
+
+### 🎯 [**GoPhish Phishing Simulation Lab: Facebook Credential Capture**](https://github.com/Ennygee/GoPhish-Phishing-Simulation-Lab-Facebook-Credential-Capture)  
+Executed a **phishing simulation** using **GoPhish**, focusing on **Facebook credential capture**. Analyzed the results to improve phishing detection and employee security awareness.
+
+---
+
+### 🖥️ [**Virtual AD Lab: Domain Controller and Client Setup with 1,000 Users**](https://github.com/Ennygee/Virtual-AD-Lab-Domain-Controller-and-Client-Setup-with-1-000-Users)  
+Configured a fully functional **Active Directory (AD) lab** with **1,000 users** in a virtual environment. Automated user creation and management with **PowerShell scripts**.
+
+---
+
+### 🔵 [**Blue Team Operations Lab: Active Directory Threat Detection with Splunk, Sysmon, and Atomic Red Team**](https://github.com/Ennygee/Blue-Team-Operations-Lab-Active-Directory-Threat-Detection-with-Splunk-Sysmon-and-Atomic-Red-Team)  
+Developed an **Active Directory security lab** that integrates **Splunk** for log analysis, **Sysmon** for monitoring, and **Atomic Red Team** for attack simulations to practice **blue team threat detection techniques**.
+
 
 ---
 
